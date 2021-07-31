@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.comclass{
+    display: grid;
+    place-items: center;
+
+}
+
+#imgs1{
+    width: 400px;
+    height: 300px;
+}
+
+.container{
+    margin-top: 5rem;
+    display: grid;
+    place-items: center;
+    box-shadow:0 2px 4px black;
+}
+.dataarea{
+
+}
